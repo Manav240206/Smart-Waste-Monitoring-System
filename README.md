@@ -1,6 +1,6 @@
 # ♻️ Smart Waste Monitoring System
 
-A real-time, IoT-enabled waste tracking and management platform designed for Urban Local Bodies (ULBs). The system collects sensor readings from ESP32-powered smart bins (detecting **Wet**, **Dry**, and **Metal** waste) and streams live updates to an interactive React dashboard via **Socket.IO WebSockets**.
+A real-time, IoT-enabled waste tracking platform designed for Urban Local Bodies (ULBs). The system collects sensor readings from ESP32-powered smart bins (detecting **Wet**, **Dry**, and **Metal** waste) and streams live updates to an interactive React dashboard via **Socket.IO WebSockets**.
 
 ---
 
